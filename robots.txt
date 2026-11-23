@@ -1,0 +1,5 @@
+# Run set-domain.py after you choose your domain; it replaces YOUR-DOMAIN.
+User-agent: *
+Allow: /
+
+Sitemap: https://YOUR-DOMAIN/sitemap.xml
